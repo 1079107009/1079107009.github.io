@@ -3,11 +3,11 @@
   <title>武穆遗书</title>
   
   <subtitle>Valar Morghulis</subtitle>
-  <link href="/blog/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="lploveshe/blog/"/>
+  <link href="http://yoursite.com/"/>
   <updated>2017-11-23T05:30:36.368Z</updated>
-  <id>lploveshe/blog/</id>
+  <id>http://yoursite.com/</id>
   
   <author>
     <name>someone</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="lploveshe/blog/2017/11/23/hello-world/"/>
-    <id>lploveshe/blog/2017/11/23/hello-world/</id>
+    <link href="http://yoursite.com/2017/11/23/hello-world/"/>
+    <id>http://yoursite.com/2017/11/23/hello-world/</id>
     <published>2017-11-23T05:30:36.368Z</published>
     <updated>2017-11-23T05:30:36.368Z</updated>
     
